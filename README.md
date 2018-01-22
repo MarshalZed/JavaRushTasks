@@ -1,3 +1,6 @@
+Sorry for Russian in *.md, but I just don't have enough time for translate all that stuff and I don't want to use GoogleTranslate... ;)
+Some day I will translate it.
+
 Решения некоторых интересных задач с курса JavaRush.ru
 Сборщики проектов не использовались.
 Все в Intellij IDEA.
